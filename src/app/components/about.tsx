@@ -12,7 +12,7 @@ const About = () => {
         alt="hero"
         width={290}
         height={290}
-        src="/assets/foto/Jahfal.jpg"
+        src="/assets/Foto/Jahfal.jpg"
       />
     </div>
     <div className="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
